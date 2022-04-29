@@ -1,0 +1,18 @@
+{
+  "name": "generator-sass-starter-boilerplate",
+  "version": "1.0.1",
+  "description": "Generates a front-end workflow with Gulp and Sass",
+  "main": "index.js",
+  "dependencies": {
+    "yeoman-generator": "^5.4.0"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/i-f-r-a-h/generator-SASS-starter"
+  },
+  "author": "i-f-r-a-h",
+  "license": "ISC"
+}
