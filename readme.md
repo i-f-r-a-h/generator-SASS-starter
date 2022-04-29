@@ -1,4 +1,4 @@
-# Sass boilerplate
+# HTML, Sass & Js boilerplate
 
 A Yeoman generator that creates a Sass front-end workflow.
 
